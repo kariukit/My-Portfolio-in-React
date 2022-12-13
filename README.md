@@ -1,4 +1,4 @@
-# React-Portfolio
+# My-Portfolio-in-React
 
 The challenge in this project was to create a portfolio, using React and the application is to be deployed on GitHub pages.
 
