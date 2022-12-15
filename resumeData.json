@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name":"Teresa Kariuki",
+    "description":"Full-Stack Web Developer",
+    "image":"Profile-pic.jpg",
+    "bio":"My name is Teresa Kariuki and I am an early-career Web Developer based in Smyrna, GA. I am a hard-working, detail-oriented and passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "nyawirakariukit@gmail.com",
+    "github":"https://github.com/kariukit",
+    "project":"https://www.linkedin.com/in/teresa-kariuki-3b220024/",
+    "address":{
+      "street":"Rosewell Road",
+      "city":"Smyrna",
+      "state":"GA",
+      "zip": "30080"
+    },
+    "website": "https://github.com/kariukit",
+    "resumedownload":"https://drive.google.com/file/d/1rg4Ojdwf0eSHSJcc2Si5GL9ZsoEWoGZa/view?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/kariukit",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/teresa-kariuki-3b220024/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+   
+    "education":[
+      {
+        "school":"Georgia Insitute of Technology",
+        "degree":"Full-Stack Web Development Certificate",
+        "graduated":"December 2022",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"University of Nairobi, Kenya",
+        "degree":"Bachelor's of Science in Civil and Construction Engineering",
+        "graduated":" 2011"
+      }
+    ],
+    
+    
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap"
+      
+      },
+      {
+        "name":"ReactJS"
+      
+      },
+      {
+        "name":"MongoDB / Mongoose"
+       
+      },
+      {
+        "name":" GitHub"
+       
+      },
+      {
+        "name":"NodeJS / ExpressJS"
+       
+      },
+      {
+        "name":"MySQL / Sequelize"
+       
+      },
+      {
+        "name":"JavaScript / jQuery"
+      
+      },
+      {
+        "name":"REST APIs"
+        
+      }
+     
+  
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tech-Blog",
+        "shorttitle": "Tech-blog",
+        "category":" Project",
+        "image":"tech-blog.jpg",
+        "info":"HTML, CSS, JS, Bootstrap",
+        "url":"http://teresa-tech-blog.herokuapp.com/",
+        "repo":"https://github.com/kariukit/Tech-Blog"
+      },
+      {
+        "title":"Note-Taker",
+        "shorttitle": "Note-Taker",
+        "category":"Project",
+        "image":"note-taker.jpg",
+        "info":"Express, Vuejs, Nodejs,  HTML, CSS, JS",
+        "url":"https://teresa-note-taker.herokuapp.com/",
+        "repo":"https://github.com/kariukit/Note-Taker"
+      }
+      
+    ]
+  }
+}
