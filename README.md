@@ -68,7 +68,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # D) The video link below demonstrates the functionality of the app:
 
-https://watch.screencastify.com/v/wCoJrLgzkSM628Vx1kb7
+https://watch.screencastify.com/v/1RWJOg4hypgWvWK8YtMS
 
 # E) To run the app:
 
