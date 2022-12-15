@@ -105,5 +105,17 @@
       }
       
     ]
+  },
+  "testimonials":{
+    "testimonials":[
+    {
+      "text":"This is a sample Endorsement/Testimonial",
+      "user":"Some technical guy- 1"
+    },
+    {
+      "text":"This is a sample Endorsement/Testimonial",
+      "user":"Some technical guy- 2"
+    }
+  ]
   }
 }
