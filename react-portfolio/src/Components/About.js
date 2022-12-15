@@ -33,8 +33,8 @@ class About extends Component {
 						   <span>{name}</span><br />
                      <span>{phone}</span><br />
                      <span>{email}</span><br />
-                     <span>{city}, {state}</span><br />
-                     <span>(willing to relocate)</span>
+                     <span>{street}, {city}, {zip}, {state}</span><br />
+                     <span>( Not willing to relocate)</span>
 					   </p>
                </div>
                <div className="columns download">
