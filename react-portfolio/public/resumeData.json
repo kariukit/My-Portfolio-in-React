@@ -1,15 +1,15 @@
 {
   "main": {
     "name":"Teresa Kariuki",
-    "description":"Web Developer",
-    "image":"profilepic.jpg",
-    "bio":"My name is Teresa Kariuki and I am an early-career Web Developer. Based in Smyrna, GA, I am a hard-working, detail-oriented and passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "description":"Full-Stack Web Developer",
+    "image":"Profile-pic.jpg",
+    "bio":"My name is Teresa Kariuki and I am an early-career Web Developer based in Smyrna, GA. I am a hard-working, detail-oriented and passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
     "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
     "email": "nyawirakariukit@gmail.com",
     "github":"https://github.com/kariukit",
     "project":"https://www.linkedin.com/in/teresa-kariuki-3b220024/",
     "address":{
-      "street":"(Your Street)",
+      "street":"Rosewell Road",
       "city":"Smyrna",
       "state":"GA",
       "zip": "30080"
@@ -34,7 +34,7 @@
     "education":[
       {
         "school":"Georgia Insitute of Technology",
-        "degree":"Coding Bootcamp Certificate",
+        "degree":"Full-Stack Web Development Certificate",
         "graduated":"December 2022",
         "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
       },
