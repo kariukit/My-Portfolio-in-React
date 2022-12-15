@@ -66,6 +66,14 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ![20-react-homework-demo-01](https://user-images.githubusercontent.com/108309963/207438394-92348b1f-f04c-4322-a412-6b6ea9fbf8d2.gif)
 
-# D) The link to the deployed app is attached below:
+# D) The video link below demonstrates the functionality of the app:
 
+https://watch.screencastify.com/v/wCoJrLgzkSM628Vx1kb7
 
+# E) To run the app:
+
+ 1.clone the repo
+ 
+ 2. install the required dependencies in the package.json
+ 
+ 3. run npm start on your terminal
